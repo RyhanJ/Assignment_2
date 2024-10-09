@@ -1,0 +1,36 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 450,
+    "height": "container",
+    "title": "Ranking of Renewable Energy Sources in Australia Over Time (1999-2023)",
+    "data": {
+      "url": "https://raw.githubusercontent.com/RyhanJ/Assignment2/refs/heads/main/bumpchart.csv"
+    },
+    "mark": {"type": "line", "point": true},
+    "selection": {
+      "fuel_types": {
+        "type": "multi",
+        "fields": ["Fuel_Type"],
+        "bind": "legend"
+      }
+    },
+    "encoding": {
+      "x": {"field": "Year", "type": "temporal", "timeUnit": "year","title":"Year"},
+      "y": {
+        "field": "Rank",
+        "type": "quantitative",
+        "scale": {"domain": [1, 4], "reverse": true},
+        "axis": {"title": "Rank", "tickCount": 4, "values": [1, 2, 3, 4]}
+      },
+      "color": {"field": "Fuel_Type", "type": "nominal", "title":"Fuel Type", "scale": {"scheme": "tableau10"}},
+      "opacity": {
+        "condition": {"selection": "fuel_types", "value": 1},
+        "value": 0
+      },
+      "tooltip": [
+        {"field": "Fuel_Type", "type": "nominal", "title": "Fuel Type"},
+        {"field": "Year", "type": "temporal", "format": "%Y"},
+        {"field": "Rank", "type": "quantitative", "title": "Rank"}
+      ]
+    }
+  }

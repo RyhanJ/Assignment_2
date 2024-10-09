@@ -1,0 +1,123 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Proportion of Fuel Production by Type in Australia (1983-2023)",
+    "fontSize": 16,
+    "fontWeight": "bold",
+    "anchor": "middle",
+    "dy": -10
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/RyhanJ/Assignment2/refs/heads/main/normalisedstackedareachart.csv"
+  },
+  "width": 410,
+  "height": 300,
+  "params": [
+    {
+      "name": "fuelTypeFilter",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Black coal",
+          "Brown coal",
+          "Natural gas",
+          "Oil and LPG",
+          "Renewables"
+        ],
+        "labels": [
+          "Show All",
+          "Black coal",
+          "Brown coal",
+          "Natural gas",
+          "Oil and LPG",
+          "Renewables"
+        ],
+        "name": "Fuel Type: "
+      }
+    }
+  ],
+  "transform": [],
+  "layer": [
+    {
+      "mark": {"type": "area", "tooltip": true},
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "Year",
+          "title": "Year",
+          "axis": {"domain": false, "format": "%Y"}
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Production",
+          "title": "Production (PJ)",
+          "stack": "normalize"
+        },
+        "color": {
+          "field": "Fuel_Type",
+          "title": "Fuel Type",
+          "scale": {"scheme": "category20b"}
+        },
+        "opacity": {
+          "condition": {
+            "test": "datum.Fuel_Type == fuelTypeFilter || fuelTypeFilter == null",
+            "value": 1
+          },
+          "value": 0.3
+        },
+        "tooltip": [
+          {
+            "field": "Fuel_Type",
+            "type": "nominal",
+            "title": "Fuel Type",
+            "format": ""
+          },
+          {
+            "field": "Year",
+            "type": "temporal",
+            "title": "Year",
+            "timeUnit": "year"
+          },
+          {
+            "field": "Production",
+            "type": "quantitative",
+            "title": "Production (Petajoules)",
+            "format": ",.2f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "color": "white"},
+      "data": {
+        "values": [
+          {
+            "x": 600,
+            "y": 0.65,
+            "text": [
+              "Despite a 170% increase in renewables energy production in 2023 vs 1983,", 
+              "the proportion of Australia's energy production that is renewable", 
+              "has remained stagnant over the period."
+            ]
+          }
+        ]
+      },
+      "encoding": {
+        "x": {"field": "x", "type": "quantitative", "scale": {"domain": [0, 1000]}, "title": "", "axis": null},
+        "y": {"field": "y", "type": "quantitative", "title": ""},
+        "text": {"field": "text", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "white", "size": 1.5},
+      "data": {"values": [{"x1": 700, "y1": 0.5, "x2": 1000, "y2": 0.03}]},
+      "encoding": {
+        "x": {"field": "x1", "type": "quantitative", "title": "", "axis": null},
+        "y": {"field": "y1", "type": "quantitative", "title": ""},
+        "x2": {"field": "x2"},
+        "y2": {"field": "y2"}
+      }
+    }
+  ]
+}

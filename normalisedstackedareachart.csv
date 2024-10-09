@@ -1,0 +1,206 @@
+﻿Fuel_Type,Year,Production
+Black coal,1983,2658.4
+Black coal,1984,2826.6
+Black coal,1985,3203.5
+Black coal,1986,3596.7
+Black coal,1987,3955.1
+Black coal,1988,3610.5
+Black coal,1989,3951.4
+Black coal,1990,4234.0
+Black coal,1991,4396.0
+Black coal,1992,4680.1
+Black coal,1993,4778.0
+Black coal,1994,4786.6
+Black coal,1995,5173.2
+Black coal,1996,5232.0
+Black coal,1997,5580.0
+Black coal,1998,5980.0
+Black coal,1999,5993.9
+Black coal,2000,6375.8
+Black coal,2001,6882.6
+Black coal,2002,7282.3
+Black coal,2003,7287.3
+Black coal,2004,7535.2
+Black coal,2005,8054.8
+Black coal,2006,8141.3
+Black coal,2007,8631.9
+Black coal,2008,8651.1
+Black coal,2009,9008.9
+Black coal,2010,9759.3
+Black coal,2011,9244.4
+Black coal,2012,9885.3
+Black coal,2013,10901.5
+Black coal,2014,11841.6
+Black coal,2015,12195.7
+Black coal,2016,12101.5
+Black coal,2017,12161.8
+Black coal,2018,12370.1
+Black coal,2019,12593.7
+Black coal,2020,12316.8
+Black coal,2021,11359.6
+Black coal,2022,11215.7
+Black coal,2023,10783.5
+Brown coal,1983,329.4
+Brown coal,1984,316.5
+Brown coal,1985,369.2
+Brown coal,1986,350.1
+Brown coal,1987,405.0
+Brown coal,1988,424.9
+Brown coal,1989,474.8
+Brown coal,1990,450.7
+Brown coal,1991,484.1
+Brown coal,1992,497.3
+Brown coal,1993,466.8
+Brown coal,1994,474.2
+Brown coal,1995,492.0
+Brown coal,1996,514.4
+Brown coal,1997,559.1
+Brown coal,1998,636.5
+Brown coal,1999,669.0
+Brown coal,2000,670.3
+Brown coal,2001,666.0
+Brown coal,2002,669.5
+Brown coal,2003,731.9
+Brown coal,2004,726.6
+Brown coal,2005,737.3
+Brown coal,2006,744.7
+Brown coal,2007,728.2
+Brown coal,2008,732.4
+Brown coal,2009,751.9
+Brown coal,2010,759.4
+Brown coal,2011,736.9
+Brown coal,2012,744.6
+Brown coal,2013,644.8
+Brown coal,2014,626.0
+Brown coal,2015,697.4
+Brown coal,2016,624.6
+Brown coal,2017,584.2
+Brown coal,2018,473.3
+Brown coal,2019,444.4
+Brown coal,2020,425.4
+Brown coal,2021,430.0
+Brown coal,2022,415.7
+Brown coal,2023,400.9
+Oil and LPG,1983,893.7
+Oil and LPG,1984,1075.6
+Oil and LPG,1985,1247.8
+Oil and LPG,1986,1280.5
+Oil and LPG,1987,1269.7
+Oil and LPG,1988,1260.9
+Oil and LPG,1989,1145.1
+Oil and LPG,1990,1284.1
+Oil and LPG,1991,1276.3
+Oil and LPG,1992,1253.5
+Oil and LPG,1993,1236.1
+Oil and LPG,1994,1171.1
+Oil and LPG,1995,1249.6
+Oil and LPG,1996,1216.0
+Oil and LPG,1997,1249.2
+Oil and LPG,1998,1374.2
+Oil and LPG,1999,1135.7
+Oil and LPG,2000,1501.9
+Oil and LPG,2001,1539.6
+Oil and LPG,2002,1457.9
+Oil and LPG,2003,1359.2
+Oil and LPG,2004,1156.7
+Oil and LPG,2005,1063.7
+Oil and LPG,2006,984.1
+Oil and LPG,2007,1154.0
+Oil and LPG,2008,1064.4
+Oil and LPG,2009,1134.2
+Oil and LPG,2010,1090.4
+Oil and LPG,2011,1036.8
+Oil and LPG,2012,976.3
+Oil and LPG,2013,867.6
+Oil and LPG,2014,835.6
+Oil and LPG,2015,785.5
+Oil and LPG,2016,753.9
+Oil and LPG,2017,669.6
+Oil and LPG,2018,645.3
+Oil and LPG,2019,782.3
+Oil and LPG,2020,959.7
+Oil and LPG,2021,864.9
+Oil and LPG,2022,891.2
+Oil and LPG,2023,771.4
+Natural gas,1983,466.2
+Natural gas,1984,490.0
+Natural gas,1985,523.3
+Natural gas,1986,570.7
+Natural gas,1987,588.4
+Natural gas,1988,610.5
+Natural gas,1989,627.8
+Natural gas,1990,797.3
+Natural gas,1991,840.4
+Natural gas,1992,932.1
+Natural gas,1993,978.1
+Natural gas,1994,1064.9
+Natural gas,1995,1174.9
+Natural gas,1996,1204.1
+Natural gas,1997,1225.7
+Natural gas,1998,1275.5
+Natural gas,1999,1332.6
+Natural gas,2000,1316.5
+Natural gas,2001,1374.8
+Natural gas,2002,1388.9
+Natural gas,2003,1435.6
+Natural gas,2004,1438.7
+Natural gas,2005,1611.1
+Natural gas,2006,1671.2
+Natural gas,2007,1772.5
+Natural gas,2008,1845.2
+Natural gas,2009,1935.6
+Natural gas,2010,2062.1
+Natural gas,2011,2270.3
+Natural gas,2012,2155.1
+Natural gas,2013,2464.1
+Natural gas,2014,2534.5
+Natural gas,2015,2659.3
+Natural gas,2016,3352.5
+Natural gas,2017,3996.9
+Natural gas,2018,4565.3
+Natural gas,2019,5504.7
+Natural gas,2020,5937.0
+Natural gas,2021,5730.3
+Natural gas,2022,6149.5
+Natural gas,2023,6200.5
+Renewables,1983,205.1
+Renewables,1984,202.5
+Renewables,1985,215.0
+Renewables,1986,217.3
+Renewables,1987,216.9
+Renewables,1988,220.8
+Renewables,1989,231.1
+Renewables,1990,235.3
+Renewables,1991,238.7
+Renewables,1992,224.5
+Renewables,1993,246.5
+Renewables,1994,255.4
+Renewables,1995,262.2
+Renewables,1996,271.9
+Renewables,1997,284.9
+Renewables,1998,283.4
+Renewables,1999,282.7
+Renewables,2000,266.6
+Renewables,2001,266.3
+Renewables,2002,256.9
+Renewables,2003,276.5
+Renewables,2004,279.1
+Renewables,2005,280.2
+Renewables,2006,284.5
+Renewables,2007,288.3
+Renewables,2008,286.4
+Renewables,2009,239.9
+Renewables,2010,282.6
+Renewables,2011,294.6
+Renewables,2012,293.8
+Renewables,2013,333.5
+Renewables,2014,344.2
+Renewables,2015,347.7
+Renewables,2016,360.2
+Renewables,2017,379.1
+Renewables,2018,382.5
+Renewables,2019,400.2
+Renewables,2020,418.8
+Renewables,2021,464.6
+Renewables,2022,512.1
+Renewables,2023,553.6
