@@ -1,0 +1,288 @@
+﻿Sector,Year,Consumption
+Transport,1982,837
+Transport,1983,864.1
+Transport,1984,892.1
+Transport,1985,906.3
+Transport,1986,922.1
+Transport,1987,966
+Transport,1988,1004.9
+Transport,1989,1012.4
+Transport,1990,1003
+Transport,1991,1024.3
+Transport,1992,1049.6
+Transport,1993,1081
+Transport,1994,1139.3
+Transport,1995,1181.5
+Transport,1996,1203
+Transport,1997,1210.2
+Transport,1998,1228.5
+Transport,1999,1266.6
+Transport,2000,1249.1
+Transport,2001,1261.1
+Transport,2002,1265.9
+Transport,2003,1327.8
+Transport,2004,1358.1
+Transport,2005,1388.2
+Transport,2006,1425.7
+Transport,2007,1458
+Transport,2008,1460.1
+Transport,2009,1490.8
+Transport,2010,1524.4
+Transport,2011,1547.6
+Transport,2012,1574
+Transport,2013,1592.2
+Transport,2014,1623.3
+Transport,2015,1654.9
+Transport,2016,1690.1
+Transport,2017,1734.1
+Transport,2018,1746.6
+Transport,2019,1589.9
+Transport,2020,1418.3
+Transport,2021,1447.8
+Transport,2022,1622.1
+Electricity Supply,1982,829.7
+Electricity Supply,1983,846.6
+Electricity Supply,1984,900.9
+Electricity Supply,1985,896.2
+Electricity Supply,1986,939.5
+Electricity Supply,1987,962.5
+Electricity Supply,1988,1047.6
+Electricity Supply,1989,1066
+Electricity Supply,1990,1065
+Electricity Supply,1991,1092.9
+Electricity Supply,1992,1096.4
+Electricity Supply,1993,1109.6
+Electricity Supply,1994,1162.6
+Electricity Supply,1995,1211.8
+Electricity Supply,1996,1244.1
+Electricity Supply,1997,1347.3
+Electricity Supply,1998,1415.6
+Electricity Supply,1999,1427.4
+Electricity Supply,2000,1507.9
+Electricity Supply,2001,1542.9
+Electricity Supply,2002,1566.7
+Electricity Supply,2003,1664.8
+Electricity Supply,2004,1706.4
+Electricity Supply,2005,1730.7
+Electricity Supply,2006,1807.8
+Electricity Supply,2007,1823.9
+Electricity Supply,2008,1913.9
+Electricity Supply,2009,1755.2
+Electricity Supply,2010,1682.6
+Electricity Supply,2011,1726.3
+Electricity Supply,2012,1600.1
+Electricity Supply,2013,1564.8
+Electricity Supply,2014,1650.4
+Electricity Supply,2015,1697.7
+Electricity Supply,2016,1662.6
+Electricity Supply,2017,1601.7
+Electricity Supply,2018,1566.4
+Electricity Supply,2019,1523.2
+Electricity Supply,2020,1455
+Electricity Supply,2021,1405.9
+Electricity Supply,2022,1378.3
+Manufacturing,1982,852.7
+Manufacturing,1983,887.8
+Manufacturing,1984,934.3
+Manufacturing,1985,939.6
+Manufacturing,1986,966
+Manufacturing,1987,988.3
+Manufacturing,1988,1041
+Manufacturing,1989,1067.4
+Manufacturing,1990,1073.9
+Manufacturing,1991,1033.9
+Manufacturing,1992,1066.6
+Manufacturing,1993,1109
+Manufacturing,1994,1132.4
+Manufacturing,1995,1135.4
+Manufacturing,1996,1155
+Manufacturing,1997,1179.3
+Manufacturing,1998,1192.9
+Manufacturing,1999,1191.9
+Manufacturing,2000,1188.3
+Manufacturing,2001,1207.4
+Manufacturing,2002,1175
+Manufacturing,2003,1136.6
+Manufacturing,2004,1163.7
+Manufacturing,2005,1231.4
+Manufacturing,2006,1258.7
+Manufacturing,2007,1207.5
+Manufacturing,2008,1171.4
+Manufacturing,2009,1259.8
+Manufacturing,2010,1330.6
+Manufacturing,2011,1214.9
+Manufacturing,2012,1278.9
+Manufacturing,2013,1247.1
+Manufacturing,2014,1126.1
+Manufacturing,2015,1122.9
+Manufacturing,2016,1092.6
+Manufacturing,2017,1101.8
+Manufacturing,2018,1081
+Manufacturing,2019,1055
+Manufacturing,2020,1042.9
+Manufacturing,2021,1028.9
+Manufacturing,2022,996.3
+Mining,1982,75.1
+Mining,1983,83.2
+Mining,1984,96.9
+Mining,1985,97.9
+Mining,1986,105
+Mining,1987,116.7
+Mining,1988,129.3
+Mining,1989,159.9
+Mining,1990,164.6
+Mining,1991,176.2
+Mining,1992,189.3
+Mining,1993,194.6
+Mining,1994,213.1
+Mining,1995,237.6
+Mining,1996,247.9
+Mining,1997,261.5
+Mining,1998,260.7
+Mining,1999,272.5
+Mining,2000,253.9
+Mining,2001,268.8
+Mining,2002,254.3
+Mining,2003,264.6
+Mining,2004,285.9
+Mining,2005,302.8
+Mining,2006,321.9
+Mining,2007,329.7
+Mining,2008,369.4
+Mining,2009,372.3
+Mining,2010,407.5
+Mining,2011,448.1
+Mining,2012,500.9
+Mining,2013,529.5
+Mining,2014,521.2
+Mining,2015,575.6
+Mining,2016,666.3
+Mining,2017,729.7
+Mining,2018,812.4
+Mining,2019,853.6
+Mining,2020,850.4
+Mining,2021,865.9
+Mining,2022,883.1
+Residential,1982,273.2
+Residential,1983,276
+Residential,1984,282.1
+Residential,1985,288.4
+Residential,1986,298.1
+Residential,1987,296.2
+Residential,1988,301.5
+Residential,1989,322.3
+Residential,1990,327.8
+Residential,1991,334.6
+Residential,1992,347.1
+Residential,1993,344.4
+Residential,1994,358.6
+Residential,1995,368.4
+Residential,1996,376.3
+Residential,1997,383.5
+Residential,1998,384.6
+Residential,1999,391.9
+Residential,2000,398
+Residential,2001,389
+Residential,2002,411.6
+Residential,2003,415
+Residential,2004,410.9
+Residential,2005,418
+Residential,2006,426.7
+Residential,2007,431.2
+Residential,2008,437.4
+Residential,2009,444.3
+Residential,2010,454.1
+Residential,2011,453.4
+Residential,2012,455.1
+Residential,2013,435.1
+Residential,2014,443.8
+Residential,2015,444.3
+Residential,2016,453.6
+Residential,2017,449
+Residential,2018,457
+Residential,2019,474.5
+Residential,2020,484.1
+Residential,2021,497.3
+Residential,2022,484.2
+Commercial,1982,104.5
+Commercial,1983,105.6
+Commercial,1984,109.9
+Commercial,1985,116.1
+Commercial,1986,122.9
+Commercial,1987,129.4
+Commercial,1988,136.7
+Commercial,1989,145.5
+Commercial,1990,151.1
+Commercial,1991,154.2
+Commercial,1992,158.8
+Commercial,1993,162.3
+Commercial,1994,172.9
+Commercial,1995,183.6
+Commercial,1996,189.6
+Commercial,1997,198.4
+Commercial,1998,204.7
+Commercial,1999,211.3
+Commercial,2000,214.5
+Commercial,2001,221.9
+Commercial,2002,250.7
+Commercial,2003,255.9
+Commercial,2004,256.4
+Commercial,2005,259.4
+Commercial,2006,272.6
+Commercial,2007,274.5
+Commercial,2008,278.7
+Commercial,2009,284.4
+Commercial,2010,291.3
+Commercial,2011,286.7
+Commercial,2012,296.1
+Commercial,2013,291.5
+Commercial,2014,319.8
+Commercial,2015,314.1
+Commercial,2016,314.6
+Commercial,2017,319.2
+Commercial,2018,310.7
+Commercial,2019,298
+Commercial,2020,288.1
+Commercial,2021,296.1
+Commercial,2022,308.1
+Other,1982,150.5
+Other,1983,157.8
+Other,1984,154.6
+Other,1985,158
+Other,1986,160.8
+Other,1987,163.9
+Other,1988,171.8
+Other,1989,172.3
+Other,1990,164.5
+Other,1991,166.6
+Other,1992,174
+Other,1993,181
+Other,1994,186.5
+Other,1995,187.2
+Other,1996,195.2
+Other,1997,197.4
+Other,1998,197.7
+Other,1999,209.3
+Other,2000,200.1
+Other,2001,206.1
+Other,2002,210.4
+Other,2003,216.1
+Other,2004,213.5
+Other,2005,211.3
+Other,2006,205.2
+Other,2007,208.5
+Other,2008,213.2
+Other,2009,216.9
+Other,2010,212.4
+Other,2011,211.4
+Other,2012,211.6
+Other,2013,210.9
+Other,2014,213.9
+Other,2015,225.4
+Other,2016,224.8
+Other,2017,232.6
+Other,2018,214.2
+Other,2019,206.9
+Other,2020,230.5
+Other,2021,223.2
+Other,2022,210.2
